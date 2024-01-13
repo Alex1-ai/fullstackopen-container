@@ -1,0 +1,27 @@
+Node.js version v14.21.3 detected.
+The Angular CLI requires a minimum of v16.13.
+
+Please update your Node.js version or visit https://nodejs.org/ for additional instructions.
+[?2004h]0;MINGW64:/c/Users/alexa/Downloads/Programming/HelsikiniFullstack/Containers/part12-containers-applications-main
+[32malexa@DESKTOP-TLTL35U [35mMINGW64 [33m~/Downloads/Programming/HelsikiniFullstack/Containers/part12-containers-applications-main[36m[0m
+$ [K$ [K$ [K$ o[Kdocker run -it ubuntu
+[?2004lUnable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+a48641193673: Pulling fs layer
+a48641193673: Verifying Checksum
+a48641193673: Download complete
+a48641193673: Pull complete
+Digest: sha256:6042500cf4b44023ea1894effe7890666b0c5c7871ed83a97c36c76ae560bb9b
+Status: Downloaded newer image for ubuntu:latest
+
+[?2004h]0;root@f2b259ebb67c: /root@f2b259ebb67c:/# 
+[?2004l[?2004h]0;root@f2b259ebb67c: /root@f2b259ebb67c:/# mkdir /usr/src/app
+[?2004l[?2004h]0;root@f2b259ebb67c: /root@f2b259ebb67c:/# touch /usr/src/app/index.js
+[?2004l[?2004h]0;root@f2b259ebb67c: /root@f2b259ebb67c:/# [Kls /usr/src/app
+[?2004lindex.js
+[?2004h]0;root@f2b259ebb67c: /root@f2b259ebb67c:/# exit
+[?2004lexit
+[?2004h]0;MINGW64:/c/Users/alexa/Downloads/Programming/HelsikiniFullstack/Containers/part12-containers-applications-main
+[32malexa@DESKTOP-TLTL35U [35mMINGW64 [33m~/Downloads/Programming/HelsikiniFullstack/Containers/part12-containers-applications-main[36m[0m
+$ exit
+[?2004lexit
